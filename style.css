@@ -11,8 +11,6 @@ body {
     margin-top: 0%;
     border: 15px solid rgb(132,60,42);
     background-image: url(sqPaper.png);
-
-    
 }
 
 a {
@@ -28,6 +26,7 @@ span {
 }
 
 .title {
+    color: white;
     margin-left: 15%;
     margin-top: 2%;
     font-size: 40px;
